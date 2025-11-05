@@ -1,0 +1,25 @@
+# Python junk
+__pycache__/
+*.pyc
+
+# Virtual Environment
+.venv/
+venv/
+
+# Raw and Processed User Data
+Raw Chat Data WA/
+all_chunks.json
+
+# Local Databases (CRITICAL)
+chroma_db_store/
+neo4j/
+
+# Local Secrets
+.env
+
+# VSCode settings
+.vscode/
+
+# OS junk
+.DS_Store
+Thumbs.db
