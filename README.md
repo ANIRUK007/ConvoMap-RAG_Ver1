@@ -1,4 +1,4 @@
-** # 🗺️ ConvoMap: A Hybrid RAG Knowledge Engine
+** ## 🗺️ ConvoMap: A Hybrid RAG Knowledge Engine
 
 This project is an advanced, hybrid Retrieval-Augmented Generation (RAG) system designed to turn messy, unstructured chat logs (like WhatsApp `.txt` exports) into a queryable, intelligent knowledge base.
 
